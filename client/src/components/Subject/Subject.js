@@ -2,7 +2,6 @@ import React, { Component } from "react";
 import { Label, Col, Row } from "reactstrap";
 import Sidenav from "../SideNav";
 import Subjects from "./Subjects";
-import Labs from "./Labs";
 
 class Subject extends Component {
   constructor(props) {
